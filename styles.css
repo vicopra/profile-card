@@ -132,6 +132,7 @@ main {
 
 .footer-links a:hover {
   text-decoration: underline;
+  color: #2563eb;
 }
 .location {
   color: #475569;
